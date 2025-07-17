@@ -1,1 +1,1 @@
-# SuitMedia-Intern_Android-Native_Afnan Irsyad
+# SuitMedia Mobile Developer Intern Test_Android-Native_Afnan Irsyad
